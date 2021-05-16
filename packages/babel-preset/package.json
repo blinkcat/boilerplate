@@ -1,0 +1,20 @@
+{
+  "name": "@bo/babel-preset",
+  "version": "0.1.0",
+  "description": "babel preset boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "blinkcat",
+  "dependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/plugin-transform-runtime": "^7.14.2",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-react": "^7.13.13",
+    "@babel/preset-typescript": "^7.13.0",
+    "@babel/runtime": "^7.14.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24"
+  }
+}
